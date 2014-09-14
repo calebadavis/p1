@@ -1,4 +1,4 @@
-# p1 Initial project submission from Caleb Davis for CSCI-E15
+# Project 1, Caleb Davis, CSCI-E15 Fall 2014
 
 ## Live URL
 <http://p1.prowlers.com>
